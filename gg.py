@@ -1,7 +1,9 @@
+
+
 print(" what are you doing in this here town boy? ")
 pancakes = input()
 if pancakes == "Looking for a place to stay the night":
-    print("There is a motel down the lane")
+    print("There is a motel down the lane, you better be out of here by tommorrow")
 else:
     print("Well then leave now or were going to have some trouble now boy")
 tacos = input()
@@ -29,3 +31,9 @@ if sausage == "looking for guidence":
     print("there is a saloon down the road")
 else:
     print("there is a saloon down the lane")
+pizza = input()
+if pizza == "thankyou":
+     print("the sheriff bust into the church and drags you to the gallows and hangs you because of your actions and hangs you and your story is over")
+else:
+    print("the sheriff bust into the church and drags you to the gallows and hangs you because of your actions and hangs you and your story is over")
+
